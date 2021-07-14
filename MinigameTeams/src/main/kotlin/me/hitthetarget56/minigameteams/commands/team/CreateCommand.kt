@@ -1,7 +1,7 @@
 package me.hitthetarget56.minigameteams.commands.team
 
 
-import com.smpearth.smpeboatracekotlin.model.Team
+
 import me.hitthetarget56.minigameteams.MinigameTeams
 import me.hitthetarget56.minigameteams.model.Privacy
 import me.hitthetarget56.minigameteams.util.exists
