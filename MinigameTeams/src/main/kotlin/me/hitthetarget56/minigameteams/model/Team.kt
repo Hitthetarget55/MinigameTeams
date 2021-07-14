@@ -1,4 +1,4 @@
-package com.smpearth.smpeboatracekotlin.model
+package me.hitthetarget56.minigameteams.model
 
 
 import me.hitthetarget56.minigameteams.model.Privacy
