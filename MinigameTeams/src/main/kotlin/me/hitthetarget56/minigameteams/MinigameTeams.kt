@@ -1,7 +1,5 @@
 package me.hitthetarget56.minigameteams
 
-import com.smpearth.smpeboatracekotlin.commands.team.CreateCommand
-import com.smpearth.smpeboatracekotlin.model.Team
 import me.hitthetarget56.minigameteams.commands.team.JoinCommand
 import me.hitthetarget56.minigameteams.commands.team.ViewTeams
 import me.kodysimpson.simpapi.command.CommandList
