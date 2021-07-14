@@ -1,4 +1,4 @@
-package com.smpearth.smpeboatracekotlin.commands.team
+package me.hitthetarget56.minigameteams.commands.team
 
 
 import com.smpearth.smpeboatracekotlin.model.Team
