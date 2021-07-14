@@ -1,0 +1,9 @@
+name: MinigameTeams
+version: ${project.version}
+main: me.hitthetarget56.minigameteams.MinigameTeams
+api-version: 1.16
+authors: [ Hitthetarget56 ]
+description: A plugin to manage teams in various minigames
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.5.21
+  - org.jetbrains.kotlin:kotlin-reflect:1.5.21
